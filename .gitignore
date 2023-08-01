@@ -1,0 +1,29 @@
+# Compiled files
+target/
+*.class
+
+# Log files
+logs/
+*.log
+
+# IntelliJ IDEA specific files
+.idea/
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# SBT specific files
+project/target/
+project/project/
+*.iml
+*.sbt
+
+# Scala IDE specific files
+.cache-main
+.cache-test
+.worksheet
+
+# Mac OS specific files
+.DS_Store
